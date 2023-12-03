@@ -1,0 +1,19 @@
+
+
+h1 {
+    color:brown;
+}
+
+#main-menu-section {
+    background: url(../assets/images/coffeecup.jpg) center center no-repeat;
+    height: 100vh;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    display: flex;   
+    align-items: center;
+    justify-content: center;
+    position: relative;
+
+}
